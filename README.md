@@ -39,33 +39,33 @@ En este repositorio tenemos una demostración del uso de Logic App, incluyendo u
 ![P6](https://github.com/DagonNR/Logic-Apps-Azure/blob/main/images/P6.png)
 
 - Entonces nos volverá a pedir diversos datos, como la frecuencia de comprobación y sobre que se hará la búsqueda.
-![P7](https://github.com/DagonNR/Logic-Apps-Azure/blob/main/images/P7.png)
+![P7](https://github.com/DagonNR/Logic-Apps-Azure/blob/main/images/P7.PNG)
 
 - Ahora en otra pestaña buscaremos "Cognitive Services", y crearemos una "Cuenta de varios servicios de Cognitive Services" para poder crear un "Servicio de Lenguaje".
-![P8](https://github.com/DagonNR/Logic-Apps-Azure/blob/main/images/P8.png)
+![P8](https://github.com/DagonNR/Logic-Apps-Azure/blob/main/images/P8.PNG)
 
 - Nos pedirá los datos de siempre, además de una que otra cosa.
-![P9](https://github.com/DagonNR/Logic-Apps-Azure/blob/main/images/P9.png)
+![P9](https://github.com/DagonNR/Logic-Apps-Azure/blob/main/images/P9.PNG)
 
 - En este caso usaremos "Google Sheets".
-![P10](https://github.com/DagonNR/Logic-Apps-Azure/blob/main/images/P10.png)
+![P10](https://github.com/DagonNR/Logic-Apps-Azure/blob/main/images/P10.PNG)
 
 - Ahora dentro de la "Logic App", crearemos un nuevo paso, en el que buscaremos "sentiment" y para la "Clave de cuenta" y "URL del sitio", usaremos el "Servicio de Lenguaje" que creamos antes.
-![P11](https://github.com/DagonNR/Logic-Apps-Azure/blob/main/images/P11.png)
+![P11](https://github.com/DagonNR/Logic-Apps-Azure/blob/main/images/P11.PNG)
 
 - Entonces nos pedirá como analizará (en este caso los tweets).
-![P12](https://github.com/DagonNR/Logic-Apps-Azure/blob/main/images/P12.png)
+![P12](https://github.com/DagonNR/Logic-Apps-Azure/blob/main/images/P12.PNG)
 
 - Ahora conectaremos "Google Sheets", igual que cuando buscamos "Twitter", nos pedriá iniciar sesión.
-![P13](https://github.com/DagonNR/Logic-Apps-Azure/blob/main/images/P13.png)
+![P13](https://github.com/DagonNR/Logic-Apps-Azure/blob/main/images/P13.PNG)
 
 - Buscaremos el archivo, hoja de cálculo y añadiremos los parámetros.
-![P14](https://github.com/DagonNR/Logic-Apps-Azure/blob/main/images/P14.png)
+![P14](https://github.com/DagonNR/Logic-Apps-Azure/blob/main/images/P14.PNG)
 
 - En este caso también añadiremos "Microsoft Teams", para que los mensaje se manden a un grupo, en un canal en específico.
 - Entonces si estamos contentos con el resultado, guardamos y ejecutamos.
-![P15](https://github.com/DagonNR/Logic-Apps-Azure/blob/main/images/P15.png)
+![P15](https://github.com/DagonNR/Logic-Apps-Azure/blob/main/images/P15.PNG)
 
 - Si todo salió bien, quedaría algo parecido a esto.
-![P16](https://github.com/DagonNR/Logic-Apps-Azure/blob/main/images/P16.png)
-![P17](https://github.com/DagonNR/Logic-Apps-Azure/blob/main/images/P17.png)
+![P16](https://github.com/DagonNR/Logic-Apps-Azure/blob/main/images/P16.PNG)
+![P17](https://github.com/DagonNR/Logic-Apps-Azure/blob/main/images/P17.PNG)
